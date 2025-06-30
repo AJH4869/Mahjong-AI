@@ -19,7 +19,7 @@ python supervised.py   # start supervised‑learning training
 
 * Checkpoints and logs are saved to `log/checkpoint/`.
 * After training finishes, you can upload the model to [**Botzone**](http://botzone.org.cn) for live matches.
-* For data information, see `data/README-en.txt`. Full dataset can be find on https://botzone.org.cn/static/gamecontest2024a.html.
+* For data information, see `data/README-en.txt`. Full dataset can be find in https://botzone.org.cn/static/gamecontest2024a.html.
 
 ```
 ```
